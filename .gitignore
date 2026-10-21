@@ -1,0 +1,18 @@
+# SSH Keys
+*.pem
+*.pub
+id_rsa*
+id_ed25519*
+Github_Portfolio*
+
+# Secrets & Tokens
+*.env
+.env.*
+*.key
+secrets.txt
+PAT
+token.txt
+
+# OS files
+.DS_Store
+Thumbs.db
